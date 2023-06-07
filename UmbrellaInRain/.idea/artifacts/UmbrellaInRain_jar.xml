@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UmbrellaInRain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UmbrellaInRain_jar</output-path>
+    <root id="archive" name="UmbrellaInRain.jar">
+      <element id="module-output" name="UmbrellaInRain" />
+    </root>
+  </artifact>
+</component>
